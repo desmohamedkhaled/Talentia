@@ -1,0 +1,27 @@
+{
+  "name": "talentia-luxury-accessories",
+  "version": "1.0.0",
+  "description": "Premium Stainless Steel Accessories E-commerce Website with Firebase Integration",
+  "type": "module",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "serve": "python -m http.server 8000",
+    "deploy": "vercel"
+  },
+  "keywords": [
+    "ecommerce",
+    "luxury",
+    "stainless-steel",
+    "accessories",
+    "firebase",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^latest"
+  }
+}
